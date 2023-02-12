@@ -1,0 +1,20 @@
+.item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  background-color: white;
+  padding: 8px 128px 8px 12px;
+  align-items: center;
+  box-shadow: 0px 0px 8px 1px lightgray;
+}
+
+.status {
+  font-size: 48px;
+}
+
+.avatar {
+}
+
+.name {
+}
